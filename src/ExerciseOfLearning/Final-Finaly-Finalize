@@ -1,0 +1,24 @@
+Final > This is a keyword
+
+ > Used for creating a constant 
+ > Used to prevent Inheritance
+ > Used to prevent method over-riding
+
+
+Finaly  > This is a block 
+
+This is used along with try and catch block 
+> This code will be execued always
+> For example > we can use finaly in selenium to quite the driver always >  Driver.quite 
+
+
+
+
+Finalize  > This is a method  
+
+>> This method is used to run before Garbage collector.
+
+
+The finalize () method of Object class is a method that the Garbage Collector always calls 
+just before the deletion/destroying the object which is eligible for Garbage Collection, 
+so as to perform clean-up activity.

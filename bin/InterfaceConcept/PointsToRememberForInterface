@@ -1,0 +1,5 @@
+ Interfaces are abstract in nature, means you can not create a object of this, means can't instantiate, static methods are not allowed
+ We can only define method within interface, method body is not allowed
+ Interfaces does not contain main method
+ In a Interface, variables are static/Constant/Final in nature by default - variable value will not change
+ Youtube link >> https://www.youtube.com/watch?v=ah0pn81IdDU&list=PLFGoYjJG_fqqyIj2ht0aHMx_HnGX3ZFEx&index=16&ab_channel=NaveenAutomationLabs
